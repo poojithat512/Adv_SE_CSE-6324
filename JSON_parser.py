@@ -1,6 +1,5 @@
 import os
 import json
-from ast import literal_eval
 
 # Uncomment the print statements for desired UI Components.
 # Do change the directory name containing JSON files, before running.
