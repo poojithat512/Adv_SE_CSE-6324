@@ -8,7 +8,7 @@ https://interactionmining.org/rico - The dataset that we have used contains UI s
 2. Jupyter Notebook 
 3. Pycharm IDE
 ## INSTRUCTIONS TO COMPILE
-1. Download the RICO UI Screenshot and View Hierarchy dataset from the RICO website [7] 
+1. Download the RICO UI Screenshot and View Hierarchy dataset from the RICO website
 2. Extract the zipper folder 
 3. Choose a JSON file  
 4. Copy the path and paste it in the readJson function 
