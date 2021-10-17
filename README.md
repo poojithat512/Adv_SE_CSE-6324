@@ -17,9 +17,9 @@ https://interactionmining.org/rico - The dataset that we have used contains UI s
 7.	Pass the number of JSON file, that is desired to be converted. 
 8.	Give a location on your PC to save the converted React Native code, using the function named ‘createReactCode’.
 9.	Prerequisites to run React Native code
-    •	Install Node.js(https://nodejs.org/en/) on Local PC
-    •	Install Expo-cli(https://docs.expo.dev/)
-    •	Create a new expo project and paste the generated React Native code in the file named ‘App.js’
+    * Install Node.js(https://nodejs.org/en/) on Local PC
+    * Install Expo-cli(https://docs.expo.dev/)
+    * Create a new expo project and paste the generated React Native code in the file named ‘App.js’
 10.	Then go to command prompt or terminal of your editor and give any of the commands ‘npm start’ or ‘yarn start’ to open the simulator.
 11.	Select the option ‘Run in Web browser’ to have a browser view.
 12.	And to view it in mobile, install the App ‘Expo-go’(for IOS) or ‘Expo’( for Android) and scan the barcode. 
