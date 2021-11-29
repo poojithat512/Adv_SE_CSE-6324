@@ -25,5 +25,6 @@ https://interactionmining.org/rico - The dataset that we have used contains UI s
 12 Then go to command prompt or terminal of your editor and give any of the commands ‘npm start’ or ‘yarn start’ to open the simulator.
 13.	Select the option ‘Run in Web browser’ to have a browser view.
 14.	And to view it in mobile, install the App ‘Expo-go’(for IOS) or ‘Expo’( for Android) and scan the barcode. 
+15. Open http://localhost:8080/ to see the generated react native code in browser. If the port is busy, change the port number in code and run it again.
 ## MOTIVATION
 http://ranjithakumar.net/resources/rico.pdf
